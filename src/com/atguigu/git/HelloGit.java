@@ -30,6 +30,7 @@ public class HelloGit {
 		System.out.println("test git11..");
 		
 		System.out.println("test git13");
+		System.out.println("test git12");
 	}
 
 }
